@@ -1,0 +1,40 @@
+body {
+    display: flex;
+    background-color: $background-color;
+    max-width: 66.6%;
+    padding: 0.1em 0.2em;
+    margin: auto;
+    border-radius: 0.3em;
+    flex-direction: column;
+}
+
+.main {
+    flex: 1 0 auto;
+    width: 64em;
+    margin: 2em auto;
+}
+
+.header,
+.footer {
+    flex: 0 0 auto;
+    margin: 0;
+    padding: 0;
+}
+
+@media (max-width: 765px) {
+    .title {
+        min-width: 50%;
+    }
+    
+    .logo {
+        display: none !important;
+    }
+    
+    .header {
+        flex-direction: column;
+    }
+    
+    .main {
+        width: 96%;
+    }
+}

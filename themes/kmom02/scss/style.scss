@@ -1,0 +1,54 @@
+@import '../../node_modules/normalize.css/normalize';
+@import 'variables';
+
+
+@import 'blockquotes';
+@import 'code';
+@import 'main';
+@import 'header';
+@import 'footer';
+@import 'typography';
+
+
+@import '../../shared/fontawesome/scss/fontawesome';
+$fa-font-path: '../../shared/fontawesome/webfonts';
+@import '../../shared/fontawesome/scss/brands';
+@import '../../shared/fontawesome/scss/solid';
+@import '../../shared/fontawesome/scss/regular';
+
+
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Quicksand:wght@300;400&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Parisienne&family=Quicksand:wght@300;400&display=swap');
+
+
+h1 {
+    margin-top: 0;
+}
+
+.nav li {
+    border-style: solid;
+    background-color: #c4b0af;
+    margin-top: 0;
+}
+
+.nav ul li {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.nav a {
+   
+    width: 52px;
+    background-color: #c4b0af;
+    color: #000;
+    text-decoration: none;
+    padding: 0.1em;
+  
+}
+
+

@@ -1,0 +1,25 @@
+.site-header {
+    display: flex;
+}
+
+.title,
+.logo {
+    padding: 4em 3em 3em 0;
+}
+
+.logo>a>img {
+    width: 286px;
+    max-width: 286px;
+}
+
+.title * {
+    color: #111;
+}
+
+.title p {
+    font-style: italic;
+}
+
+.nav {
+    margin-top: 0;
+}
