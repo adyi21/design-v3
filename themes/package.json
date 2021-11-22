@@ -8,8 +8,8 @@
   },
   "scripts": {
 	"lint": "stylelint \"**/*.scss\"",
- 	"style": "sass haci/scss/style.scss haci/css/style.css --no-source-map",
-  	"style-min": "sass haci/scss/style.scss haci/css/style.min.css --no-source-map --style compressed"  
+ 	"style": "sass kmom02/scss/style.scss kmom02/css/style.css --no-source-map",
+  	"style-min": "sass kmom02/scss/style.scss kmom02/css/style.min.css --no-source-map --style compressed"  
 
 },
   "keywords": [],

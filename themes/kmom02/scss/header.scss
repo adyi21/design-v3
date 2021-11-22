@@ -1,15 +1,19 @@
 .site-header {
-    display: flex;
+    // display: flex;
+    height: 399px;
 }
 
 .title,
 .logo {
-    padding: 4em 3em 3em 0;
+    padding: 2em 2em 2em 0;
+    flex-direction: column;
+    max-width: 67%;
+    display: inline-flex;
 }
 
 .logo>a>img {
-    width: 286px;
-    max-width: 286px;
+    width: 276px;
+    max-width: 276px;
 }
 
 .title * {
@@ -20,6 +24,27 @@
     font-style: italic;
 }
 
-.nav {
+
+
+.header .nav {
+    flex-direction: row;
+}
+
+.nav li {
+    border-style: solid;
+    background-color: #c4b0af;
     margin-top: 0;
+}
+
+.nav ul li {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.nav a {
+    background-color: #c4b0af;
+    color: #000;
+    text-decoration: none;
+    padding: 0.1em;
 }
