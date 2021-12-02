@@ -1,0 +1,33 @@
+@import '../../node_modules/normalize.css/normalize';
+@import 'variables-dark';
+
+@import 'blockquotes';
+@import 'code';
+@import 'main-dark';
+@import 'header-dark';
+@import 'footer-dark';
+@import 'typography-dark';
+@import 'technologies-dark';
+@import 'report-dark';
+
+/* variabdarkles */
+
+
+@import '../../shared/fontawesome/scss/fontawesome';
+$fa-font-path: '../../shared/fontawesome/webfonts';
+@import '../../shared/fontawesome/scss/brands';
+@import '../../shared/fontawesome/scss/solid';
+@import '../../shared/fontawesome/scss/regular';
+
+
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Quicksand:wght@300;400&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Parisienne&family=Quicksand:wght@300;400&display=swap');
+
+
+h1 {
+    margin-top: 0;
+}

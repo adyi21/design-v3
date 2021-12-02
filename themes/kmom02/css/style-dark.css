@@ -370,7 +370,7 @@ pre code {
 }
 
 body {
-  background-color: #fff3e2ea;
+  background-color: #140e0b;
   max-width: 66.6%;
   padding: 0.1em 0.2em;
   margin: auto;
@@ -425,7 +425,7 @@ body {
 }
 
 .title * {
-  color: #111;
+  color: #fff;
 }
 
 .title p {
@@ -438,7 +438,6 @@ body {
 
 .nav li {
   border-style: solid;
-  background-color: #c4b0af;
   margin-top: 0;
 }
 
@@ -449,8 +448,6 @@ body {
 }
 
 .nav a {
-  background-color: #c4b0af;
-  color: #000;
   text-decoration: none;
   padding: 0.1em;
 }
@@ -460,7 +457,7 @@ body {
   justify-content: space-between;
   height: 14px;
   padding: 2em;
-  background-color: #338f85;
+  background-color: #805b46;
   color: #fff;
 }
 
@@ -506,7 +503,7 @@ p {
 }
 
 * {
-  color: #333;
+  color: #0f0;
 }
 
 html {
@@ -536,11 +533,11 @@ body {
 
 .technology-container .technology {
   height: 7em;
-  box-shadow: #338f85 5px 5px, #8f7b2cb6 10px 10px, #8f7b2c96 15px 15px, #8f7b2c65 20px 20px, #8f7b2c46 25px 25px;
-  border: 1px solid #744846;
+  box-shadow: #805b46 5px 5px, #805b46cb 10px 10px, #805b469d 15px 15px, #805b4680 20px 20px, #805b4636 25px 25px;
+  border: 1px solid #8a4230;
   padding: 1em;
-  color: #000;
-  background-color: #8f652525;
+  color: #fff;
+  background-color: #8a4230;
 }
 
 .technology-title {
@@ -602,6 +599,7 @@ body {
   grid-column: span 3;
 }
 
+/* variabdarkles */
 /*!
  * Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)

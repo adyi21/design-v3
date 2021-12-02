@@ -1,0 +1,44 @@
+* {
+    font-family: 'Open-Sans', sans-serif;
+}
+
+h1 {
+    font-family: 'Parisienne', sans-serif;
+}
+
+h4 {
+    font-family: 'Merriweather', sans-serif;
+}
+
+h2,
+h3,
+h5,
+h6 {
+    font-family: 'Lobster', sans-serif;
+}
+
+p {
+    font-family: 'Quicksand', sans-serif;
+    font-size: $mainx-font-size;
+    margin-bottom: $magicx-number;
+}
+
+
+* {
+    color: $font-color;
+}
+
+html {
+    font-size: 100%;
+    margin-top: 0;
+}
+
+body {
+    line-height: $mainx-line-height;
+}
+
+@media (min-width: 64em) {
+    html {
+        font-size: 112.5%;
+    }
+}
