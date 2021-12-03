@@ -1,16 +1,23 @@
 body {
     background-color: $background-color;
-    max-width: 66.6%;
+    max-width: 80.6%;
     padding: 0.1em 0.2em;
     margin: auto;
     border-radius: 0.3em; 
+    
 }
 
 
 .main {
     flex: 1 0 auto;
     width: 64em;
+    max-width: 86.6%;
     margin: 1em auto;
+
+}
+
+.main p {
+    max-width: 88.6%;
 }
 
 .header,
@@ -36,6 +43,8 @@ body {
     }
     
     .main {
-        width: 94%;
+        width: 85%;
+        text-align: center;
+
     }
 }

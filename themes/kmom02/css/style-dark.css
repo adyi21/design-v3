@@ -404,7 +404,7 @@ body {
   }
 
   .main {
-    width: 94%;
+    width: 85%;
   }
 }
 .site-header {
@@ -470,11 +470,7 @@ body {
 }
 
 .footer .social {
-  font-size: 2rem;
-}
-
-.footer .social {
-  font-size: 2rem;
+  font-size: 1.8rem;
 }
 
 * {
@@ -565,7 +561,7 @@ body {
 
 .technology-article .article {
   width: auto;
-  font-size: 15px;
+  font-size: 14px;
 }
 
 @media (max-width: 767px) {
