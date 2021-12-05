@@ -1,6 +1,6 @@
 .site-header {
     // display: flex;
-    height: 399px;
+    height: 300px;
 }
 
 .title,
@@ -31,8 +31,9 @@
 }
 
 .nav li {
-    border-style: solid;
-    background-color: #c4b0af;
+    //border-style: solid;
+    //background-color: #c4b0af;
+    background-color: #222;
     margin-top: 0;
 }
 
@@ -43,8 +44,10 @@
 }
 
 .nav a {
-    background-color: #c4b0af;
-    color: #000;
+    //background-color: #c4b0af;
+    display: block;
+    color: #fff;
+    text-align: center;
+    padding: 4px 6px;
     text-decoration: none;
-    padding: 0.1em;
 }

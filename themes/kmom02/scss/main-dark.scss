@@ -39,3 +39,20 @@ body {
         width: 85%;
     }
 }
+
+@media (max-width: 767px) {
+    .display-gallery { grid-template-columns: 1fr;
+        width: 70%;
+        margin: auto; }
+}
+
+@media (max-width: 640px) {
+    .display-gallery {
+        grid-template-columns: 47.5%, 47.5%;
+        grid-column-gap: 5%;
+        grid-row-gap: 40px; 
+    }
+}
+@media (max-width: 700px) {
+    .display-gallery { grid-template-columns: repeat(2, 1fr); }
+}
