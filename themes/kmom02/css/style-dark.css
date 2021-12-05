@@ -379,7 +379,6 @@ body {
 
 .main {
   flex: 1 0 auto;
-  width: 64em;
   margin: 1em auto;
 }
 
@@ -405,6 +404,7 @@ body {
 
   .main {
     width: 85%;
+    text-align: center;
   }
 }
 .site-header {
