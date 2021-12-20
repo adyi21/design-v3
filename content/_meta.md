@@ -1,6 +1,6 @@
 ---
-Logo: assets/img/xman.png
-Tagline: My portfolio.
+Logo: assets/img/hakan4.png
+Tagline: 
 Social:
     - title: Link till sidans github repo.
       url: https://github.com/adyi21/design-v3

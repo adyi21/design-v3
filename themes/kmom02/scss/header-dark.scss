@@ -1,6 +1,5 @@
 .site-header {
-    // display: flex;
-    height: 300px;
+    display: flex;
 }
 
 .title,
@@ -9,6 +8,7 @@
     flex-direction: column;
     max-width: 67%;
     display: inline-flex;
+    margin-bottom: 1em;  
 }
 
 .logo>a>img {

@@ -30,6 +30,7 @@
     .nav ul {
         flex-direction: column;
         padding-bottom: 1em;
+        max-width: 30%;
     }
 
     .nav ul li {

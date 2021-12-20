@@ -31,7 +31,7 @@ Retrorocket
 Retrorocket använder sig av ett komplimentfärgspar färgschema. Grön och blå är komplimentärfärger. Den mest framstädande färgen som är den mest dominerande basfärgen är röda (RGB percentage 33.51%). Accentfärgen är grå (otydligt) då ingen specifik accentfärg utmärks. Färgerna är komplimenta och därav varandras accentfärger.
 <br>
 
-<img src="../assets/img/retrox.png" width="700" height="300">
+<img src="../assets/img/retrox.png" alt="" width="700" height="300">
 <br>
 <table style="border-spacing: 4px; border-collapse: separate">
 <tr>
@@ -48,7 +48,7 @@ Zalando
 -----------------------
 Zalando använder sig av ett komplimentfärgspar färgschema. svarta och grå är komplimentärfärger. Den mest framstädande färgen som är den mest dominerande basfärgen är vit (RGB percentage 23.43%). Accentfärgen är svarta (otydligt) då ingen specifik accentfärg utmärks. Färgerna är komplimenta och därav varandras accentfärger.
 <br>
-<img src="../assets/img/zalando.png" width="700" height="300">
+<img src="../assets/img/zalando.png" alt="" width="700" height="300">
 <br>
 <table style="border-spacing: 4px; border-collapse: separate">
 <tr>
@@ -67,7 +67,7 @@ Brothers
 Brothers använder sig av ett komplimentfärgspar färgschema. Grön och blå är komplimentärfärger. Den mest framstädande färgen som är den mest dominerande basfärgen är röda (RGB percentage 22.21%). Accentfärgen är grön och brun (otydligt) då ingen specifik accentfärg utmärks. Färgerna är komplimenta och därav varandras accentfärger.
 <br>
 <br>
-<img src="../assets/img/bros.png" width="700" height="300">
+<img src="../assets/img/bros.png" alt="" width="700" height="300">
 <br>
 <table style="border-spacing: 4px; border-collapse: separate">
 <tr>

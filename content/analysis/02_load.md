@@ -27,13 +27,13 @@ Resultat
 
 See the collected data spreadsheet 
 
-<iframe height="200px" width="100%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR3MzkDE9V6muqJd2MbMZl3ydue_UsbJzO7CyKmGGAKsH7rgTxlOu5cX22EdLJu3qyBvhyZ-7w5Bpxz/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe title="My google doc" height="200px" width="100%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR3MzkDE9V6muqJd2MbMZl3ydue_UsbJzO7CyKmGGAKsH7rgTxlOu5cX22EdLJu3qyBvhyZ-7w5Bpxz/pubhtml?widget=true&amp;headers=false"></iframe>
 
 Duckduckgo
 -----------------------
 <br>
 
-<img src="../assets/img/duckduck.png" width="700" height="300">
+<img src="../assets/img/duckduck.png" alt="" width="700" height="300">
 
 <br>
 
@@ -46,7 +46,7 @@ Hackernoon
 -----------------------
 
 <br>
-<img src="../assets/img/hackers.png" width="700" height="300">
+<img src="../assets/img/hackers.png" alt="" width="700" height="300">
 <br>
 
 Improvement suggestions:
@@ -62,7 +62,7 @@ Naver
 
 <br>
 <br>
-<img src="../assets/img/naver.png" width="700" height="300">
+<img src="../assets/img/naver.png" alt="" width="700" height="300">
 <br>
 
 Improvement suggestions:
@@ -78,10 +78,11 @@ Analys
 -----------------------
 
 According to the results, it seems to be that content-heavy sites (by number of resources loaded) take longer time to load as expected. However when viewing the PageInsight suggestions for improvement reducing the content is however not suggested. The suggestions seem to touch upon some aspects - the page code (suggestions to remove unused code, using images of correct size for example), server response time and the order in which items render (eliminate render blocking resources or defer offscreen images). I suggest that those below are the three main strategies for improving site loading speed:
-
+<ul>
 <li>Optimize content</li>
 <li>Optimize code</li>
 <li>Control the rendering of the page</li>
+</ul>
 <br>
 <b>Duckduckgo.com</b> has the best PageInsights scores (both on desktop and on mobile) and it also delivers high loading speeds and is pronounced the winner of this test.
 <br>
